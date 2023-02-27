@@ -1,1 +1,4 @@
-Hello this is Tanmoy Ghosh I have done my BCA from Inspiria Knowledge Campus , Siliguri. and my Masters from University of North Bengal. 
+Hello this is Tanmoy Ghosh I have done my BCA from Inspiria Knowledge Campus , Siliguri. 
+and my Masters from University of North Bengal. 
+
+changes made for alien branch.
